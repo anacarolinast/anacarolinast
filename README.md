@@ -4,4 +4,4 @@ Hello, I'm Ana Carolina, a student in the System Analisys and Development, and I
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinast&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinast&hide_progress=true)
